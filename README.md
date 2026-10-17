@@ -29,7 +29,7 @@ https://www.python.org/downloads/
 **2. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/p2p-file-transfer.git
+git clone https://github.com/hegecetin/p2p-file-transfer.git
 cd p2p-file-transfer
 ```
 
