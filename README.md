@@ -17,12 +17,21 @@ A simple peer-to-peer file transfer application built with Python, Tkinter, and 
 
 Python and dependency compatibility may vary by version.
 
-## Usage
+## Installation
 
-Run the application with Python:
+Make sure Python 3.11 or later is installed.
+
+Install the required dependency:
 
 ```bash
-python -m pip install -r requirements.txt
+python -m pip install "magic-wormhole>=0.23.0"
+```
+
+## Usage
+
+Run the application:
+
+```bash
 python p2p_file_transfer.py
 ```
 
