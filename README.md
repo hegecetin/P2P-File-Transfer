@@ -22,6 +22,7 @@ Python and dependency compatibility may vary by version.
 Run the application with Python:
 
 ```bash
+python -m pip install -r requirements.txt
 python p2p_file_transfer.py
 ```
 
