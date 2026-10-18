@@ -1,5 +1,1 @@
-## Requirements
-
-- Windows 10 / Windows 11
-- Python 3.11–3.14
-- magic-wormhole >= 0.23.0
+magic-wormhole >= 0.23.0
